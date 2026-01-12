@@ -7,3 +7,5 @@ echo "Feedback: ".$_POST['msg'];
 <input name="msg">
 <input type="submit">
 </form>
+
+# Exploit Title: Feedback XSS
